@@ -13,8 +13,8 @@
 - ⚡ Fun fact: I love to design and play my casio.
 <br />
 
-### My GitHub Stats
 <details>
+  <summary>My GitHub Stats</summary>
 <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shecoderfinally" />  
 </details>
 <br>
