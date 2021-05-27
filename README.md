@@ -14,8 +14,9 @@
 <br />
 
 ### My GitHub Stats
+<details>
 <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shecoderfinally" />  
-
+</details>
 <br>
 <br>
 <br>
