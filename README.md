@@ -1,17 +1,19 @@
 # Hello Everyone! 👋
-My name is Sanai Divadkar.
----
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://www.pinclipart.com/picdir/middle/578-5789236_logo-twitter-png-blanc-white-twitter-logo-transparent.png" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
----
 
-## I'm a Learner, Doer & Developer!!
+My name is Sanai Divadkar.I am an aspiring software engineer who enjoys connecting the dots: be it ideas from different disciplines, people from different teams, or applications from different industries. I am working on developing strong technical skills and an decent academic background in engineering, statistics, and IT support. 
+
+### I'm a Learner, Doer & Developer!!
 
 - 🌱 I’m currently learning exploring🤣
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to design and play my casio.
 <br />
+
+### Lets Connect
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://www.pinclipart.com/picdir/middle/578-5789236_logo-twitter-png-blanc-white-twitter-logo-transparent.png" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+---
 
 <details>
   <summary>My GitHub Stats</summary>
