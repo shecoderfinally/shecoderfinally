@@ -10,7 +10,7 @@ My name is Sanai Divadkar.I am an aspiring software engineer who enjoys connecti
 - 🌱 I’m currently working with various Python libraries.
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to design and play my casio.
-- Feel free to check out my designing work on <a href="https://www.instagram.com/graphixel_/">Graphixel_</a> 
+- 🏹 Feel free to check out my designing work on <a href="https://www.instagram.com/graphixel_/">Graphixel_</a> 
 <br />
 
 ![Sanai's GitHub stats](https://github-readme-stats.vercel.app/api?username=shecoderfinally&theme=nightowl&show_icons=true)
