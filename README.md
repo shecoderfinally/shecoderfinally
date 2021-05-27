@@ -12,8 +12,6 @@ My name is Sanai Divadkar.I am an aspiring software engineer who enjoys connecti
 - ⚡ Fun fact: I love to design and play my casio.
 <br />
 
-
-<summary>My GitHub Stats</summary>
 <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shecoderfinally" />  
 
 
