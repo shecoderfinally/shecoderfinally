@@ -14,8 +14,6 @@ My name is Sanai Divadkar.I am an aspiring software engineer who enjoys connecti
 <br />
 
 ![Sanai's GitHub stats](https://github-readme-stats.vercel.app/api?username=shecoderfinally&theme=nightowl&show_icons=true)
-
-
 [twitter]: https://twitter.com/_BoredPear
 [instagram]: https://www.instagram.com/ianas_div1/
 [linkedin]: https://www.linkedin.com/in/sanai-divadkar-83b309197/
