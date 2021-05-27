@@ -12,8 +12,6 @@
 ## GIT HUB STATS
 <summary>:zap: shecoderfinally</summary>
 <img align="left" alt="shecoderfinally's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shecoderfinally" />  
-  
-
 
 <br>
 <br>
@@ -21,6 +19,7 @@
 <br>
 <br>
 <br>
+
 ---
 <br />
 
