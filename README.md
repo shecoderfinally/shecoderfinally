@@ -46,7 +46,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shecoderfinally)](https://github.com/anuraghazra/github-readme-stats)" />
+  <img align="left" alt="shecoderfinally GitHub Stats" src="[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shecoderfinally)](https://github.com/anuraghazra/github-readme-stats)" />
 
 </details>
 
