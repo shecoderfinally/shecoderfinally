@@ -9,13 +9,11 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to design and play my casio.
 
----
-
 ## GIT HUB STATS
   <summary>:zap: GitHub Stats</summary>
   <img align="left" alt="shecoderfinally's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shecoderfinally" /> \
 
-
+---
 
 
 
