@@ -14,14 +14,16 @@
 <img align="left" alt="shecoderfinally's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shecoderfinally" />  
   
 
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 ---
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br />
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
