@@ -1,5 +1,5 @@
-### Hi there, I'm SANAI - aka [shecoderfinally] 👋
-
+# Hello Everyone! 👋
+## My name is Sanai Divadkar.
 ---
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://www.pinclipart.com/picdir/middle/578-5789236_logo-twitter-png-blanc-white-twitter-logo-transparent.png" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
