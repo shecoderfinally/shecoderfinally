@@ -13,6 +13,8 @@ My name is Sanai Divadkar.I am an aspiring software engineer who enjoys connecti
 - 🏹 Feel free to check out my designing work on <a href="https://www.instagram.com/graphixel_/">Graphixel_</a> 
 <br />
 
+![](https://komarev.com/ghpvc/?username=shecoderfinally&color=blue)
+
 ![Sanai's GitHub stats](https://github-readme-stats.vercel.app/api?username=shecoderfinally&theme=nightowl&show_icons=true)
 
 [twitter]: https://twitter.com/_BoredPear
