@@ -3,19 +3,19 @@
 [<img align="left" alt="shecoderfinally | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br>
 # Hello Everyone! 👋
-My name is Sanai Divadkar.I am an aspiring software engineer who enjoys connecting the dots: be it ideas from different disciplines, people from different teams, or applications from different industries. I am working on developing strong technical skills and an decent academic background in engineering, statistics, and IT support. 
+I am an aspiring software engineer who enjoys connecting the dots: be it ideas from different disciplines, people from different teams, or applications from different industries. I am working on developing strong technical skills and an decent academic background in engineering, statistics, and IT support. 
 
 ### I'm a Learner, Doer & Developer!!
 
 - 🌱 I’m currently working with various Python libraries.
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to design and play my casio.
-- 🏹 Feel free to check out my designing work on <a href="https://www.instagram.com/graphixel_/">Graphixel_</a> 
+
 <br />
 
 ![](https://komarev.com/ghpvc/?username=shecoderfinally&color=a17ac8)
 
-![Sanai's GitHub stats](https://github-readme-stats.vercel.app/api?username=shecoderfinally&theme=nightowl&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shecoderfinally&theme=nightowl&show_icons=true)
 
 [twitter]: https://twitter.com/_BoredPear
 [instagram]: https://www.instagram.com/ianas_div1/
