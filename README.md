@@ -10,7 +10,7 @@ I enjoy creating things, which is a big factor in my decision to pursue a career
 ### I'm a Learner, Doer & Developer!!
 
 - 🌱 I’m currently working with various Python libraries.
-- 🥅 2021 Goals: Contribute more to Open Source projects.
+- 🥅 2023 Goals: Work towards earning a masters degree.
 - ⚡ Fun fact: I love to design and play my casio.
 
 <br />
