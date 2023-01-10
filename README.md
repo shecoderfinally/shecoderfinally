@@ -12,7 +12,8 @@ I enjoy creating things, which is a big factor in my decision to pursue a career
 - 🥅 2023 Goals: Work towards earning a masters degree.
 - ⚡ Fun fact: I love to design  play my casio.  
 
-<br />
+<br>  
+
 **Skills- Python, Java, C++, SQL, eam Work, Collaboration.**
 
 **Interests- Rnewable Energy, Artificial Intelligence,Machine Learning, Modern Security, Business, Blockchain.** 
