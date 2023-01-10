@@ -14,7 +14,7 @@ I enjoy creating things, which is a big factor in my decision to pursue a career
 
 <br>  
 
-**Skills- Python, Java, C++, SQL, eam Work, Collaboration.**
+**Skills- Python, Java, C++, SQL, Team Work, Collaboration.**
 
 **Interests- Renewable Energy, Artificial Intelligence, Machine Learning, Modern Security, Business, Blockchain.** 
 <br />
