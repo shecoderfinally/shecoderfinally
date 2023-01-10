@@ -1,15 +1,12 @@
-
-[<img align="left" alt="shecoderfinally | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
 <br>
 # Hello Everyone! 👋
 I am an aspiring software engineer who enjoys connecting the dots: be it ideas from different disciplines, people from different teams, or applications from different industries. I am working on developing strong technical skills and an decent academic background in engineering, statistics, and IT support. 
 
 I enjoy creating things, which is a big factor in my decision to pursue a career in technology. Growing up, I enjoyed painting and playing outdoor games like badminton and basketball with my friends. It makes me very happy that I chose this field since I get to spend most of my day thinking of innovative solutions and writing code to automate basic mundane tasks with the help of technology.
 
-# Skills- Python, Java, C++, SQL, eam Work, Collaboration
+Skills- Python, Java, C++, SQL, eam Work, Collaboration.    
 
-# Interests- Rnewable Energy, Artificial Intelligence,Machine Learning, Modern Security, Business, Blockchain.
+Interests- Rnewable Energy, Artificial Intelligence,Machine Learning, Modern Security, Business, Blockchain.  
 
 ### I'm a Learner, Doer & Developer!!
 
@@ -23,5 +20,5 @@ I enjoy creating things, which is a big factor in my decision to pursue a career
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shecoderfinally&theme=nightowl&show_icons=true)
 
-[twitter]: https://twitter.com/_BoredPear
+
 
