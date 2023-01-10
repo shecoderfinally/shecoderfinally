@@ -16,7 +16,7 @@ I enjoy creating things, which is a big factor in my decision to pursue a career
 
 **Skills- Python, Java, C++, SQL, eam Work, Collaboration.**
 
-**Interests- Rnewable Energy, Artificial Intelligence,Machine Learning, Modern Security, Business, Blockchain.** 
+**Interests- Renewable Energy, Artificial Intelligence, Machine Learning, Modern Security, Business, Blockchain.** 
 <br />
 
 ![](https://komarev.com/ghpvc/?username=shecoderfinally&color=a17ac8)
