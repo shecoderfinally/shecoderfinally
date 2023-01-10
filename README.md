@@ -10,7 +10,7 @@ I enjoy creating things, which is a big factor in my decision to pursue a career
 
 - 🌱 I’m currently working with various Python libraries.
 - 🥅 2023 Goals: Work towards earning a masters degree.
-- ⚡ Fun fact: I love to design  play my casio.
+- ⚡ Fun fact: I love to design  play my casio.  
 
 
 **Skills- Python, Java, C++, SQL, eam Work, Collaboration.**
