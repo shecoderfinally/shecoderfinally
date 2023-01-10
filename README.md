@@ -1,7 +1,5 @@
 ![image](https://user-images.githubusercontent.com/53052899/211491733-9c680afa-773c-40da-953b-5f536b2350ab.png)
 
-<br>
-
 # Hello Everyone! 👋  
 
 I am an aspiring software engineer, presently in my final year of Engineering. I enjoy connecting the dots: be it ideas from different disciplines, people from different teams, or applications from different industries. I am working on developing strong technical skills and an decent academic background in engineering, statistics, and IT support. 
