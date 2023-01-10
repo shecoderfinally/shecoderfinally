@@ -1,6 +1,6 @@
 
 <br>
-# Hello Everyone! 👋
+# Hello Everyone! 👋  
 I am an aspiring software engineer who enjoys connecting the dots: be it ideas from different disciplines, people from different teams, or applications from different industries. I am working on developing strong technical skills and an decent academic background in engineering, statistics, and IT support. 
 
 I enjoy creating things, which is a big factor in my decision to pursue a career in technology. Growing up, I enjoyed painting and playing outdoor games like badminton and basketball with my friends. It makes me very happy that I chose this field since I get to spend most of my day thinking of innovative solutions and writing code to automate basic mundane tasks with the help of technology.
