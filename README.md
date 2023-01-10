@@ -1,5 +1,6 @@
 
 <br>
+
 # Hello Everyone! 👋  
 I am an aspiring software engineer who enjoys connecting the dots: be it ideas from different disciplines, people from different teams, or applications from different industries. I am working on developing strong technical skills and an decent academic background in engineering, statistics, and IT support. 
 
