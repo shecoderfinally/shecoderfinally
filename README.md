@@ -20,6 +20,7 @@ I enjoy creating things, which is a big factor in my decision to pursue a career
 <br />
 
 ![](https://komarev.com/ghpvc/?username=shecoderfinally&color=a17ac8)
+<br>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shecoderfinally&theme=nightowl&show_icons=true)
 
