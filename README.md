@@ -22,7 +22,7 @@ I enjoy creating things, which is a big factor in my decision to pursue a career
 ![](https://komarev.com/ghpvc/?username=shecoderfinally&color=a17ac8)
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=aura)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shecoderfinally&show_icons=true&theme=aura)
 
 
 
