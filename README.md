@@ -9,7 +9,7 @@ I enjoy creating things, which is a big factor in my decision to pursue a career
 ### I'm a Learner, Doer & Developer!!
 
 - 🌱 I’m currently working with various Python libraries.
-- 🥅 2023 Goals: Work towards earning a masters degree.
+- 🥅 2023 Goals: Working towards a certification in AWS and writting blogs.
 - ⚡ Fun fact: I love to read classics and play my casio during leisure time.  
 
 <br>  
