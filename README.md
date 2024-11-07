@@ -3,19 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shecoderfinally&label=Profile%20views&color=0e75b6&style=flat" alt="shecoderfinally" /> </p>
 
-- 🔭 I’m currently working on **Data Science, LLMS**
+- 🔭 I’m currently working on: **Getting AWS Certified and writting blogs**
 
-- 🌱 I’m currently learning **advanced machine learning techniques, scalable software architecture, and best practices in AI ethics.**
+- 🌱 I’m currently learning: **Advanced machine learning techniques, scalable software architecture, and best practices in AI ethics.**
 
-- 👯 I’m looking to collaborate on **innovative software projects, machine learning models, and open-source tools that make a difference!**
+- 👯 I’m looking to collaborate on: **Innovative software projects, machine learning models, and open-source tools that make a difference!**
 
-- 💬 Ask me about **exploring multimodal large language models (LLMs), combining text, images, and videos for more comprehensive AI solutions**
+- 💬 Ask me about: **Exploring multimodal large language models (LLMs), combining text, images, and videos for more comprehensive AI solutions**
 
-- 📫 How to reach me **divadkar@usc.edu**
+- 📫 How to reach me: **divadkar@usc.edu**
 
-- 📄 Know about my experiences [vv](vv)
-
-- ⚡ Fun fact **Teaching machines to see, hear, and think (hopefully better than me!)"**
+- ⚡ Fun fact: **Teaching machines to see, hear, and think (hopefully better than me!)"**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
