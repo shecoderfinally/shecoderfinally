@@ -27,6 +27,8 @@ https://medium.com/@ianasdiv1adkar
 <a href="https://medium.com/@ianasdiv1adkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ianasdiv1adkar" height="30" width="40" /></a>
 </p>
 
+<br>
+<br>
 <h3 align="left">Programming Languages</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -120,7 +122,7 @@ https://medium.com/@ianasdiv1adkar
  
 </p>
 
-
+<br> <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shecoderfinally&show_icons=true&locale=en&layout=compact" alt="shecoderfinally" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shecoderfinally&show_icons=true&locale=en" alt="shecoderfinally" /></p>
