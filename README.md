@@ -17,6 +17,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+https://medium.com/@ianasdiv1adkar
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
