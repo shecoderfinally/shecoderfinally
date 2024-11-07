@@ -1,5 +1,7 @@
+![Header](./your-header-image-name.png)
 <h1 align="center">Hi 👋, I'm Sanai</h1>
 <h3 align="center">Pursuing an MS in CS at USC – where my code runs faster than my social life!</h3>
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/userupload/16714487/file/original-bb460608edacec14089f545292b39757.mp4")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shecoderfinally&label=Profile%20views&color=0e75b6&style=flat" alt="shecoderfinally" /> </p>
 
