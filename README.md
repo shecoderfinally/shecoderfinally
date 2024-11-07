@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shecoderfinally&label=Profile%20views&color=0e75b6&style=flat" alt="shecoderfinally" /> </p>
 
-- 🔭 I’m currently working on: **Getting AWS Certified and writting blogs**
+- 🔭 I’m currently working on: **Getting AWS Certified**
 
 - 🌱 I’m currently learning: **Advanced machine learning techniques, scalable software architecture, and best practices in AI ethics.**
 
