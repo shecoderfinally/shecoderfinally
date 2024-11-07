@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning: **Advanced machine learning techniques, scalable software architecture, and best practices in AI ethics.**
 
-- 👯 I’m looking to collaborate on: **Innovative software projects, machine learning models, and open-source tools that make a difference!**
+- 👯 I’m looking to collaborate on: **Software projects, machine learning models, and open-source tools that make a difference!**
 
-- 💬 Ask me about: **Exploring multimodal large language models (LLMs), combining text, images, and videos for more comprehensive AI solutions**
+- 💬 Ask me about: **Multimodal large language models (LLMs), combining text, images, and videos for more comprehensive AI solutions**
 
 - 📫 How to reach me: **divadkar@usc.edu**
 
