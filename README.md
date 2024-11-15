@@ -17,7 +17,7 @@
 
 ### Portfolio Website
 <!-- BLOG-POST-LIST:START -->
-[https://medium.com/@ianasdiv1adkar](https://shecoderfinally.github.io/)
+https://shecoderfinally.github.io/
 <!-- BLOG-POST-LIST:END -->
 
 ### Blogs posts
