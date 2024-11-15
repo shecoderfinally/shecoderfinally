@@ -15,12 +15,12 @@
 
 - ⚡ Fun fact: **Teaching machines to see, hear, and think (hopefully better than me!)"**
 
-### Portfolio Website
+### 🖥️ Portfolio Website
 <!-- BLOG-POST-LIST:START -->
 https://shecoderfinally.github.io/
 <!-- BLOG-POST-LIST:END -->
 
-### Blogs posts
+###  📝 Blogs posts
 <!-- BLOG-POST-LIST:START -->
 https://medium.com/@ianasdiv1adkar
 <!-- BLOG-POST-LIST:END -->
